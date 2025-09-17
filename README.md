@@ -1,3 +1,5 @@
+[![](https://github.com/amazingrando/amazingrando/blob/main/assets/amazing-rando-badge.svg)](https://github.com/fate-srd)
+
 # Designer & storyteller for growing brands
 
 I set the vision, create the structure, and adapt as the story unfolds—whether that's a design system, a website, or an award-winning project.
