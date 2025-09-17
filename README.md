@@ -1,4 +1,4 @@
-[![](https://github.com/amazingrando/amazingrando/blob/master/assets/amazing-rando-badge.svg)](https://github.com/fate-srd)
+[![](https://github.com/amazingrando/amazingrando/blob/master/assets/amazing-rando-badge.svg)](https://amazingrando.com)
 
 # Designer & storyteller for growing brands
 
